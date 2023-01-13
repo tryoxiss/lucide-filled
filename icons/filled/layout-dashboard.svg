@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg34589"
+   sodipodi:docname="layout-dashboard.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs34593" />
+  <sodipodi:namedview
+     id="namedview34591"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="26.208333"
+     inkscape:cx="12.019078"
+     inkscape:cy="12.019078"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34589" />
+  <rect
+     x="3"
+     y="3"
+     width="7"
+     height="9"
+     id="rect34581"
+     style="fill:#000000" />
+  <rect
+     x="14"
+     y="3"
+     width="7"
+     height="5"
+     id="rect34583"
+     style="fill:#000000" />
+  <rect
+     x="14"
+     y="12"
+     width="7"
+     height="9"
+     id="rect34585"
+     style="fill:#000000" />
+  <rect
+     x="3"
+     y="16"
+     width="7"
+     height="5"
+     id="rect34587"
+     style="fill:#000000" />
+</svg>
